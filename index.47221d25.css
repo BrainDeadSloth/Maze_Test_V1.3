@@ -1,0 +1,2 @@
+body{margin:0}.tooltip{color:#fff;opacity:0;background-color:#7e7e7e;padding:10px;transition-property:opacity,transform;transition-duration:.2s;position:relative;transform:translateY(-10px)}.tooltip:after{content:"";z-index:-1;background-color:#7e7e7e;width:20px;height:20px;position:absolute;top:90%;left:50%;transform:rotate(45deg)translate(-50%)}.hide{opacity:0;transform:translateY(-10px)}.show{opacity:1;transform:translateY(0)}
+/*# sourceMappingURL=index.47221d25.css.map */
